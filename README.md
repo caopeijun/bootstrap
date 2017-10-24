@@ -1,5 +1,5 @@
 ### bootstrap常用样式(bootstrap-3.3.7版本)
-1.bootstrap-3.3.7.min.js
+1.bootstrap-3.3.7.min.js<br>
 2.标签<br>
 3.分页<br>
 4.列表组<br>
